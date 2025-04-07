@@ -20,7 +20,7 @@
         "./src/components/sections/*"
       ],
       "@cv": [
-        "./src/assets/cv.json"
+        "./src/assets/json/cv.json"
       ]
     }
   }
