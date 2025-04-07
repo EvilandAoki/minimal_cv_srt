@@ -1,18 +1,17 @@
 {
   "basics": {
     "name": "Sebastian Rey Escobar",
-    "label": "Full Stack Developer con más de 4 años de experiencia en applicaciones web con JavaScript y TypeScript ",
-    "image": "https://avatars.githubusercontent.com/u/74556270?v=4&size=800",
+    "label": "Full Stack Developer con más de 4 años de experiencia en aplicaciones web con JavaScript y TypeScript",
+    "image": "/me.webp",
     "email": {
-      "info": "reysebastian77@gmail.com",
+      "info": "sebastian.rey@correounivalle.edu.co",
       "icon": "mdi:email"
     },
     "phone": {
       "info": "+57 313770735",
       "icon": "mdi:phone"
     },
-    "url": "https://midu.dev",
-    "summary": "Soy un estudiante de tec",
+    "summary": "Desarrollador de software con 4 años de experiencia construyendo aplicaciones web escalables, enfocadas en gestión administrativa y manejo eficiente de grandes volúmenes de datos. Actualmente curso el 6.º semestre de Tecnología en Desarrollo de Software en la Universidad del Valle (Cali), complementando mi formación académica con habilidades técnicas sólidas en JavaScript, dominio de frameworks front-end y back-end (especializado en Node.js), y metodologías ágiles como Scrum, Kanban y Extreme Programming (XP).",
     "location": {
       "address": "Cra. 85d #55-100",
       "postalCode": "760033",
@@ -23,68 +22,58 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev",
+        "username": "Sebastian-rey-escobar",
+        "url": "https://www.linkedin.com/in/sebastian-rey-escobar-2061b1284/",
         "icon": "mdi:linkedin"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev",
+        "username": "EvilandAoki",
+        "url": "https://github.com/EvilandAoki",
         "icon": "mdi:github"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
+      "name": "Ingeniosoft",
+      "position": "Desarrollador Junior - Q.A - Scrum Master",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Participé en diversos proyectos desde diferentes departamentos, aportando conocimientos y habilidades adquiridas. Inicié como tester de aplicaciones y evolucioné hasta desarrollador full-stack. Trabajé con diversas tecnologías aplicando mejores prácticas definidas por líderes técnicos.",
       "highlights": [
-        "Started the company"
+        "Implementación de procesos de testing automatizado",
+        "Migración exitosa de sistemas legacy a arquitectura moderna"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "Heippi",
+      "position": "Desarrollador Junior",
+      "startDate": "2020",
+      "endDate": "2022",
+      "summary": "Desarrollo de sitios web en WordPress con equipos interdisciplinarios, enfocado en entregar productos flexibles y escalables. Optimicé tiempos de carga en un 40% mediante técnicas avanzadas de rendimiento.",
+      "highlights": [
+        "Liderazgo técnico en 5 proyectos simultáneos",
+        "Implementación de arquitectura headless CMS"
+      ]
+    },
+    {
+      "name": "Mentor 360",
+      "position": "Desarrollador Junior",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "startDate": "2018-06-01",
+      "endDate": "2020-09-01",
+      "summary": "Creación de plantillas personalizadas en WordPress, HTML, CSS y JavaScript. Documentación técnica de requerimientos y especificaciones funcionales.",
       "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Diseño de sistema de componentes reutilizables",
+        "Reducción de tiempos de desarrollo en un 30%"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Universidad del valle",
+      "institution": "Universidad del Valle - 6to semestre",
       "url": "https://eisc.univalle.edu.co/index.php/programas-academicos/tecnologia-en-desarrollo-de-software",
       "area": "Tecnología en Desarrollo de Software",
       "studyType": "Tecnología",
@@ -93,48 +82,15 @@
       "Semester": "6"
     },
     {
-      "institution": "Institucion educativa Tecnico Industrial Jose Maria Carbonell",
+      "institution": "Institución Educativa Técnico Industrial José María Carbonell",
       "url": "https://eisc.univalle.edu.co/index.php/programas-academicos/tecnologia-en-desarrollo-de-software",
-      "area": "Bachiller con especialización en sistemas de información.",
-      "studyType": "Tecnología",
+      "area": "Bachiller con especialización en sistemas de información",
+      "studyType": "Bachillerato Técnico",
       "startDate": "2012-01-01",
-      "endDate": "2017-12-2"
+      "endDate": "2017-12-02"
     }
   ],
-  "courses": [
-    {
-      "name": "Scrum Fundamentals",
-      "institution": "Univ",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }
-  ],
-  "skills": [
+ "skills": [
     {
       "name": "HTML",
       "level": "Master",
@@ -158,6 +114,17 @@
       "name": "JavaScript",
       "level": "Master",
       "icon": "bx:bxl-javascript",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Qraphql",
+      "level": "Master",
+      "icon": "bxl-graphql",
       "keywords": [
         "Desarrollo Web",
         "Frontend",
@@ -251,95 +218,6 @@
         "JavaScript Library",
         "UI"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
