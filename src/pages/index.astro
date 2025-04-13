@@ -1,22 +1,28 @@
 ---
 import About from "@sections/About.astro";
 import Hero from "@sections/Hero.astro";
-import Proyects from "@sections/Proyects.astro";
 import Layout from "../layouts/Layout.astro";
 import Keyboard from "@/components/Keyboard.astro";
 import Education from "@/components/sections/Education.astro";
 import DevSkills from "@/components/sections/DevSkills.astro";
 import WorkExperience from "@/components/workExperience.astro";
-import CustomSkills2 from "@/components/sections/CustomSkills2.astro";
+import SoftSkills from "@/components/sections/SoftSkills.astro";
 ---
 
 <Layout title="Minimalist Portfolio">
 	<main>
 		<Hero />
-		<About />
-		<Education />
-		<DevSkills />
-		<WorkExperience />
+		<section class="container">
+			<section class="container-left">
+				<About />
+				<WorkExperience />
+				<Education />
+			</section>
+			<section class="container-right">
+				<DevSkills />
+				<SoftSkills />
+			</section>
+		</section>
 	</main>
 	<Keyboard />
 </Layout>

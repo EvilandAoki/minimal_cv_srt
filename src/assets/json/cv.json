@@ -8,10 +8,10 @@
       "icon": "mdi:email"
     },
     "phone": {
-      "info": "+57 313770735",
+      "info": "+57 3137707735",
       "icon": "mdi:phone"
     },
-    "summary": "Desarrollador de software con 4 años de experiencia construyendo aplicaciones web escalables, enfocadas en gestión administrativa y manejo eficiente de grandes volúmenes de datos. Actualmente curso el 6.º semestre de Tecnología en Desarrollo de Software en la Universidad del Valle (Cali), complementando mi formación académica con habilidades técnicas sólidas en JavaScript, dominio de frameworks front-end y back-end (especializado en Node.js), y metodologías ágiles como Scrum, Kanban y Extreme Programming (XP).",
+    "summary": "Desarrollador de software con 4 años de experiencia construyendo aplicaciones web. Actualmente curso el 6.º semestre de Tecnología en Desarrollo de Software en la Universidad del Valle (Cali), complementando mi formación académica con habilidades técnicas sólidas en JavaScript, dominio de frameworks front-end y back-end (especializado en Node.js), y metodologías ágiles como Scrum, Kanban y Extreme Programming (XP).",
     "location": {
       "address": "Cra. 85d #55-100",
       "postalCode": "760033",
@@ -42,6 +42,7 @@
       "startDate": "2022-01-01",
       "endDate": null,
       "summary": "Participé en diversos proyectos desde diferentes departamentos, aportando conocimientos y habilidades adquiridas. Inicié como tester de aplicaciones y evolucioné hasta desarrollador full-stack. Trabajé con diversas tecnologías aplicando mejores prácticas definidas por líderes técnicos.",
+      "location": "remoto",
       "highlights": [
         "Implementación de procesos de testing automatizado",
         "Migración exitosa de sistemas legacy a arquitectura moderna"
@@ -50,9 +51,10 @@
     {
       "name": "Heippi",
       "position": "Desarrollador Junior",
-      "startDate": "2020",
-      "endDate": "2022",
-      "summary": "Desarrollo de sitios web en WordPress con equipos interdisciplinarios, enfocado en entregar productos flexibles y escalables. Optimicé tiempos de carga en un 40% mediante técnicas avanzadas de rendimiento.",
+      "startDate": "2020-06-01",
+      "endDate": "2020-06-01",
+      "location": "remoto",
+      "summary": "Desarrollo de sitios web en WordPress con equipos interdisciplinarios, enfocado en entregar productos flexibles y escalables. Optimicé tiempos de carga en un 40% mediante técnicas de optimización y rendimiento.",
       "highlights": [
         "Liderazgo técnico en 5 proyectos simultáneos",
         "Implementación de arquitectura headless CMS"
@@ -60,6 +62,7 @@
     },
     {
       "name": "Mentor 360",
+      "location": "remoto",
       "position": "Desarrollador Junior",
       "url": "https://twitch.tv/midudev",
       "startDate": "2018-06-01",
@@ -90,7 +93,7 @@
       "endDate": "2017-12-02"
     }
   ],
- "skills": [
+  "skills": [
     {
       "name": "HTML",
       "level": "Master",
@@ -218,6 +221,36 @@
         "JavaScript Library",
         "UI"
       ]
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Honestidad",
+      "icon": "mdi:handshake"
+    },
+    {
+      "name": "Adaptación",
+      "icon": "mdi:shape-outline"
+    },
+    {
+      "name": "Trabajo en equipo",
+      "icon": "mdi:account-group"
+    },
+    {
+      "name": "Comunicación clara",
+      "icon": "mdi:message-text"
+    },
+    {
+      "name": "Responsabilidad",
+      "icon": "mdi:shield-check"
+    },
+    {
+      "name": "Iniciativa",
+      "icon": "mdi:lightbulb-on"
+    },
+    {
+      "name": "Escucha Activa",
+      "icon": "mdi:ear-hearing"
     }
   ]
 }

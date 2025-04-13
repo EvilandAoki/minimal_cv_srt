@@ -10,7 +10,16 @@ html {
     letter-spacing: -0.025rem;
 }
 
-body,
+body {
+    max-width: 750px;
+    margin: auto;
+}
+
+section {
+    margin: 20px 0 0;
+}
+
+
 figure {
     margin: 0;
     padding: 0;
@@ -51,6 +60,23 @@ h4 {
         sans-serif;
 }
 
+
+h2 {
+    border-bottom: 2px solid darkgray;
+    margin-bottom: 8px;
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 1.2rem;
+}
+
+
+
 p {
     color: #666;
     font-size: 0.9rem;
@@ -59,8 +85,28 @@ p {
     text-wrap: pretty;
 }
 
+.container {
+    display: flex;
+    margin: 2% 0;
+}
+
+.container-left {
+    width: 75%;
+    margin-right: 5%;
+}
+
+.container-right {
+    width: 20%;
+}
+
 .print {
     display: none !important;
+}
+
+@media (width <=700px) {
+    section {
+        margin-bottom: 38px;
+    }
 }
 
 @media print {
